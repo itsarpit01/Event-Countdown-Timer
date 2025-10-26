@@ -1,0 +1,26 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Packages and cache
+*.cache
+*.log
+*.tmp
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Rider / JetBrains
+.idea/
+
+# Other
+*.exe
+*.dll
