@@ -75,6 +75,9 @@ Run the project (F5) to start the application.
 
 Enter your event details and start the countdown.
 
+->Link
+https://github.com/itsarpit01/Event-Countdown-Timer/tree/main
+
 ->📚 References
 
 Figueira, D., & de Almeida, A. T. (2017). Implementation of Countdown Timers with Notifications in Mobile Applications.
